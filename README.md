@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi 
 
-<!--
-**flbulgarelli/flbulgarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ¡Hola! / Olá! / Hallo! / こんにちわ
 
-Here are some ideas to get you started:
+I am @flbulgarelli and here there are some projects I work on: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * ム Mumuki: https://github.com/mumuki/
+ * 🎍Mulang: https://mumuki.github.io/mulang/
+ * ➿ CaviDB: https://www.cavidb.org/
+ * 🧩 Headbreaker: https://flbulgarelli.github.io/headbreaker/
+ * 🐍 Recursos Python: https://github.com/flbulgarelli/recursos-python
+
+Feel free to contact me through them!
